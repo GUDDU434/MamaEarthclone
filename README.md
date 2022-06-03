@@ -1,15 +1,17 @@
-# MamaEarthclone
-
-Project:Make a clone of https://mamaearth.in/ site
-
-Blog link:https://medium.com/@arfeen_fp01_048/mamaearth-cloning-team-mama-clone-73d06a100536
-
-Netlify link:https://calm-sawine-27b8ed.netlify.app/
+# MamaEarth Clone
 
 Mamaearth is an Indian company of Health, Wellness & Fitness. It is one of the leading company or a brand which intends to make lives of mums & expectant mums better and beautiful. A brand which welcomes all babies to a healthy and a safe world.
 Mamaearth products will take care of every parents & baby’s well-being from head to toe with safe, toxin-free, international standard products which you can choose without having to think twice.
 
 In this project we have tried to manipulate dom elements, styling using css and tried to make a dynamic and responsive website. With our efforts and the technology stack, that we have learned till now in Unit-3 in the Masai school, we were able to clone more or less the whole website with same looking and features.
+
+
+Project : Make a clone of https://mamaearth.in/ site
+
+Blog link: <a href="https://medium.com/@arfeen_fp01_048/mamaearth-cloning-team-mama-clone-73d06a100536">Read More</a>
+
+Netlify link: <a href="https://calm-sawine-27b8ed.netlify.app/">Demo</a>
+
 
 # Technolgy Stack Used 🌟
 
@@ -26,3 +28,7 @@ In this project we have tried to achieve a near to perfect clone of the original
 # Limitations 
 
 All pages are not responsive yet, pages are not properly visible on small screen devices as we were having only 6 days to complete the project.
+
+# Take a look
+Home page of the website:
+![image](https://user-images.githubusercontent.com/99042645/171846029-2f2b43be-9fd5-45c9-985d-a71900c1fc75.png)
